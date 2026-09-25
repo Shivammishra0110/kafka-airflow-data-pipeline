@@ -195,18 +195,7 @@ This project demonstrates practical understanding of:
 * Service-to-service communication
 * Git and GitHub
 
-## 🚀 Future Improvements
 
-Possible improvements include:
-
-* Adding a database such as PostgreSQL
-* Adding data transformation steps
-* Implementing Kafka consumer groups
-* Adding error handling and retries
-* Adding Airflow monitoring
-* Adding data validation
-* Implementing automated testing
-* Adding CI/CD using GitHub Actions
 
 ## 👨‍💻 Author
 
